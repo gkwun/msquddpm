@@ -1,5 +1,5 @@
 # MSQuDDPM
-The official Python implementation of the [Mixed-State Quantum Denoising Diffusion Probabilistic Model](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.032610) by [Gino Kwun](https://staphaniek.github.io/aboutme/), [Dr. Bingzhi Zhang](https://sites.google.com/view/bingzhi-zhang/home), and [Dr. Quntao Zhuang](https://viterbi.usc.edu/directory/faculty/Zhuang/Quntao).
+The official Python implementation of the [Mixed-State Quantum Denoising Diffusion Probabilistic Model](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.032610) by [Gino Kwun](https://gkwun.github.io/aboutme/), [Dr. Bingzhi Zhang](https://sites.google.com/view/bingzhi-zhang/home), and [Dr. Quntao Zhuang](https://viterbi.usc.edu/directory/faculty/Zhuang/Quntao).
 
 # Dependencies
 
